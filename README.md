@@ -1,6 +1,6 @@
 # AI Diamond Price Predictor (Web App)
 
-** Live Web App:** []
+** Live Web App:** [https://diamond-price-predictor-bfpsjhtiqwb9wuvv3dr2cf.streamlit.app/]
 
 ## Overview
 This Machine Learning project predicts the market price of diamonds based on their physical attributes (Carat, Cut, Color, and Clarity). It features a trained AI model and an interactive web frontend where users can input diamond specifications to get real-time price estimations in Indian Rupees (INR).
