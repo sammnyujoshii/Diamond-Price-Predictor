@@ -30,4 +30,4 @@ The project treats diamond pricing as a Supervised Regression problem, utilizing
    `python train_model.py`
 3. Launch the web app: 
    `streamlit run app.py`
-   `streamlit run app.py`
+  
